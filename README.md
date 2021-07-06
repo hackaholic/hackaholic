@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hackaholic
 - 👀 I’m interested in Programming, Algorithms, Bigdata, Mathematics and many more
-- 🌱 I’m currently learning a lot things .... :) 
+- 🌱 I’m currently learning a lot things ...🤓
 - 📫 you can reachme at email: juniourkawasakicool@gmail.com 
 
 <!---
