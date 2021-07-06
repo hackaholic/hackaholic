@@ -4,7 +4,7 @@
 - Stackoverflow Stats [![hackaholic StackOverflow](https://stackoverflow-badge.vercel.app/?userID=2294755)](https://stackoverflow.com/users/2294755/hackaholic)
 - 📫 you can reachme at email: juniourkawasakicool@gmail.com 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackaholic&include_all_commits=true&count_private=true)](https://github.com/hackaholic/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackaholic&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/hackaholic/github-readme-stats)
 
 <!---
 hackaholic/hackaholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
