@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hackaholic
-- 👀 I’m interested in Linux Operating System, C language, Programming, Algorithms, Bigdata, Mathematics and many more
+- 👀 I’m interested in Linux Operating System, C language, Programming, Algorithms, Bigdata, Robotics, Mathematics and many more
 - 🌱 I’m currently learning a lot things ...🤓
 - Stackoverflow Stats [![hackaholic StackOverflow](https://stackoverflow-badge.vercel.app/?userID=2294755)](https://stackoverflow.com/users/2294755/hackaholic)
 - 📫 you can reachme at email: juniourkawasakicool@gmail.com 
